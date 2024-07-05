@@ -1,5 +1,5 @@
 site_name: JavaScript Documentation
-site_url: javascript-documentation
+site_url: https://pratikpaudel.github.io/documenation-javascript/
 theme:
   name: material
   features:
